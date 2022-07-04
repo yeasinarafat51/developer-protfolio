@@ -1,0 +1,9 @@
+body{font-family: 'Poppins', sans-serif; margin: 0;}
+h1{font-size: 50px;}
+.yeasin{display: flex;}
+.half{width: 50%; padding-left: 2%;}
+.half img{width: 80%;}
+.btn{text-decoration: none;
+background-color: rgb(243, 30, 129); padding: 10px 40px;
+font-weight: 700;
+border-radius: 5px;}
